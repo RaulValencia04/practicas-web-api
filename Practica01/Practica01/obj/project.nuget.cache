@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WrS2p4XBRSkeFen82FKPM0LVvYVvH1nLg7pMz7AQE4DIgnvOy6VzW4Rs6tMwKQU6KD95/oEpBlEV6s5zpCOI9A==",
+  "dgSpecHash": "R46kmZEDHs47eRSqrVzlBw0e4orhxPoVLA97MirJSpjf2tG7jRKYA77cWnCJEuoQtWbK9I91jMvfKt9xL2x1iA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luis\\Desktop\\practicas\\Practica01\\Practica01\\Practica01.csproj",
+  "projectFilePath": "C:\\Users\\luis\\Desktop\\PWA-WebApi\\Practica01\\Practica01\\Practica01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luis\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\luis\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

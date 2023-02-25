@@ -3655,11 +3655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luis\\Desktop\\practicas\\Practica01\\Practica01\\Practica01.csproj",
+      "projectUniqueName": "C:\\Users\\luis\\Desktop\\PWA-WebApi\\Practica01\\Practica01\\Practica01.csproj",
       "projectName": "Practica01",
-      "projectPath": "C:\\Users\\luis\\Desktop\\practicas\\Practica01\\Practica01\\Practica01.csproj",
+      "projectPath": "C:\\Users\\luis\\Desktop\\PWA-WebApi\\Practica01\\Practica01\\Practica01.csproj",
       "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luis\\Desktop\\practicas\\Practica01\\Practica01\\obj\\",
+      "outputPath": "C:\\Users\\luis\\Desktop\\PWA-WebApi\\Practica01\\Practica01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
